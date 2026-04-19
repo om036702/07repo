@@ -1,0 +1,29 @@
+11 Oct	06:35P TOTTORI	ANA298		
+		07:55P HANEDA
+		(ACCOMODATION) XXXX
+---------------------------------------------------------------------------------------------
+12 Oct	Tokyo Tour	(detail schedule is not fixed)
+			Sumo-beya
+			SKYTREE
+			ASAKUSA
+		(ACCOMODATION) XXXX
+---------------------------------------------------------------------------------------------
+13 Oct Tokyo Tour	(detail schedule is not fixed)
+			TSUKIJI
+			KABUKIZA
+			GINZA
+		(ACCOMODATION) XXXX
+---------------------------------------------------------------------------------------------
+14 Oct	xx:xx TOKYO Shinkansen
+		xx:xx HIROSHIMA
+		(ACCOMODATION) HIROSHIMA (TBD)
+---------------------------------------------------------------------------------------------
+15 Oct	xx:xx HIROSHIMA Shinkansen
+		xx:xx KYOTO
+			KYOTO
+		(ACCOMODATION) KYOTO (TBD)
+---------------------------------------------------------------------------------------------
+16 Oct	xx:xx KYOTO Shinkansen
+		xx:xx TOKYO
+		 Kyoto Tour
+		(ACCOMODATION) XXXX
